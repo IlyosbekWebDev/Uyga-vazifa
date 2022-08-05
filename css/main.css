@@ -1,0 +1,118 @@
+@import url(reset.css);
+
+.container {
+    margin: 0 auto;
+    max-width: 1440px;
+    max-height: 1697px;
+    background: url(../img/bg.svg) no-repeat;
+    background-color: #e8e8e8;
+
+}
+
+.inner {
+    margin: 0 auto;
+    margin-top: 126px;
+    max-width: 842px;
+    max-height: 1472px;
+
+}
+
+.title {
+    font-family: Arial;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #899194;
+    margin-top: 43px;
+    margin-bottom: 28px;
+    text-align: center;
+}
+
+.text1 {
+    margin: 0 auto;
+    max-width: 721px;
+    font-size: 36px;
+    color: #273d46;
+    line-height: 50px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    margin-bottom: 77px;
+}
+
+.rasm {
+    border: 15px solid #ffffff;
+    box-shadow: 15px 15px 65px rgba(15, 16, 16, 15%);
+}
+
+.text2 {
+    max-width: 735px;
+    color: #606c71;
+    margin-left: 44px;
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: 24px;
+    margin-top: 96px;
+    margin-bottom: 58px;
+    line-height: 40px;
+}
+
+.text3 {
+    max-width: 735px;
+    color: #606c71;
+    margin-left: 44px;
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: 24px;
+    margin-bottom: 64px;
+}
+
+ul {
+    margin-left: 44px;
+}
+
+ul li {
+    line-height: 36px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+ul li img {
+    margin-right: 9px;
+    margin-top: 10px;
+}
+
+.list1 {
+    color: #273d46;
+
+}
+
+.list2 {
+    color: #88bbb7;
+    font-style: italic;
+}
+
+.list3 {
+    color: #273d46;
+    font-weight: bold;
+}
+
+.list4 {
+    color: #bcbfc1;
+    text-decoration: line-through;
+}
+
+.link {
+    margin: 63px 0 34px 44px;
+    /* Create by Ilyosbek */
+    /* margin-left: 44px;
+    margin-top: 63px;
+    margin-bottom: 34px; */
+    display: inline-block;
+    text-transform: uppercase;
+    box-shadow: 6px 6px 45px rgba(128, 183, 179, 54%);
+    color: #ffffff;
+    background-color: #80b7b3;
+    padding: 17px 29px;
+    border-radius: 30px;
+}
+
+.link img {
+    margin-left: 11px;
+}
